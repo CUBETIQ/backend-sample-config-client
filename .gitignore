@@ -5,6 +5,8 @@ build/
 !**/src/main/**
 !**/src/test/**
 
+bootstrap.yml
+
 ### STS ###
 .apt_generated
 .classpath
