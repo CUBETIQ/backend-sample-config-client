@@ -15,6 +15,6 @@ spring:
     config:
       uri: ${CONFIG_URL:https://config-apren.cubetiqs.com}
       profile: config-client-sample
-      username: SomboCheaRootAdmin
-      password: noRootPassword7891
+      username: myUsername
+      password: myPassword
 ```
