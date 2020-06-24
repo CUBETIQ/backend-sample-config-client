@@ -1,12 +1,12 @@
 ### Sample Config Client
 
-### Add libras for client config
+#### Add libras for client config
 ```groovy
 implementation 'org.springframework.boot:spring-boot-starter-actuator'
 implementation 'org.springframework.cloud:spring-cloud-starter-config'
 ```
 
-### Add config bootstrap
+#### Add config bootstrap
 ```yml
 spring:
   application:
